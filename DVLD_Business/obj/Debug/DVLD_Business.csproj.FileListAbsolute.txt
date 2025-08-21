@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\DVLD_Business\bin\Debug\DVLD_Business.dll
+C:\Users\hp\source\repos\DVLD_Business\bin\Debug\DVLD_Business.pdb
+C:\Users\hp\source\repos\DVLD_Business\bin\Debug\DVLD_DataAccess.dll
+C:\Users\hp\source\repos\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\hp\source\repos\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+C:\Users\hp\source\repos\DVLD_Business\obj\Debug\DVLD_Business.dll
+C:\Users\hp\source\repos\DVLD_Business\obj\Debug\DVLD_Business.pdb
